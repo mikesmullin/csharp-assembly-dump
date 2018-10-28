@@ -1,0 +1,1709 @@
+{
+  "TMG.Data.GameData#1": {
+    "SaveFiles": {
+      "name": "TMG.Data.SaveFileData#3",
+      "values": [
+        {
+          "TMG.Data.SaveFileData#10": {
+            "ID": 0,
+            "CurrentChapter": 5,
+            "HasDied": false,
+            "PlayTime": 1.6815581571897805e-44,
+            "IsNewGamePlus": true,
+            "CompleteCount": 0,
+            "Internecions": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "CH1Data": {
+              "CH1DataVO#30": {
+                "Inkwell": {
+                  "ObjectiveSaveDataVO#101": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Doll": {
+                  "ObjectiveSaveDataVO#102": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Record": {
+                  "ObjectiveSaveDataVO#103": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Book": {
+                  "ObjectiveSaveDataVO#104": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Wrench": {
+                  "ObjectiveSaveDataVO#105": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Gear": {
+                  "ObjectiveSaveDataVO#106": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "InkMachineRevealObjective": {
+                  "ObjectiveSaveDataVO#107": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "CollectablesObjective": {
+                  "ObjectiveSaveDataVO#108": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "TheatreObjective": {
+                  "ObjectiveSaveDataVO#109": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "InkMachineObjective": {
+                  "ObjectiveSaveDataVO#110": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "BendyChaseObjective": {
+                  "ObjectiveSaveDataVO#111": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "BasementObjective": {
+                  "ObjectiveSaveDataVO#112": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "PlayerPosition": null,
+                "PlayerRotation": null,
+                "HasDied": false,
+                "IsChapterComplete": false,
+                "HasSaveData": false
+              }
+            },
+            "CH2Data": null,
+            "CH3Data": null,
+            "CH4Data": null,
+            "CH5Data": null
+          }
+        },
+        null,
+        {
+          "TMG.Data.SaveFileData#11": {
+            "ID": 2,
+            "CurrentChapter": 0,
+            "HasDied": false,
+            "PlayTime": 0,
+            "IsNewGamePlus": false,
+            "CompleteCount": 0,
+            "Internecions": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "CH1Data": {
+              "CH1DataVO#32": {
+                "Inkwell": {
+                  "ObjectiveSaveDataVO#113": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Doll": {
+                  "ObjectiveSaveDataVO#114": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Record": {
+                  "ObjectiveSaveDataVO#115": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Book": {
+                  "ObjectiveSaveDataVO#116": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Wrench": {
+                  "ObjectiveSaveDataVO#117": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "Gear": {
+                  "ObjectiveSaveDataVO#118": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "InkMachineRevealObjective": {
+                  "ObjectiveSaveDataVO#119": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "CollectablesObjective": {
+                  "ObjectiveSaveDataVO#120": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "TheatreObjective": {
+                  "ObjectiveSaveDataVO#121": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "InkMachineObjective": {
+                  "ObjectiveSaveDataVO#122": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "BendyChaseObjective": {
+                  "ObjectiveSaveDataVO#123": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "BasementObjective": {
+                  "ObjectiveSaveDataVO#124": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                },
+                "PlayerPosition": null,
+                "PlayerRotation": null,
+                "HasDied": false,
+                "IsChapterComplete": false,
+                "HasSaveData": false
+              }
+            },
+            "CH2Data": null,
+            "CH3Data": null,
+            "CH4Data": null,
+            "CH5Data": null
+          }
+        }
+      ]
+    },
+    "CurrentSaveFile": {
+      "TMG.Data.SaveFileData#4": {
+        "ID": -1,
+        "CurrentChapter": 0,
+        "HasDied": false,
+        "PlayTime": 0,
+        "IsNewGamePlus": true,
+        "CompleteCount": 0,
+        "Internecions": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "CH1Data": {
+          "CH1DataVO#14": {
+            "Inkwell": {
+              "ObjectiveSaveDataVO#33": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Doll": {
+              "ObjectiveSaveDataVO#34": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Record": {
+              "ObjectiveSaveDataVO#35": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Book": {
+              "ObjectiveSaveDataVO#36": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Wrench": {
+              "ObjectiveSaveDataVO#37": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Gear": {
+              "ObjectiveSaveDataVO#38": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InkMachineRevealObjective": {
+              "ObjectiveSaveDataVO#39": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "CollectablesObjective": {
+              "ObjectiveSaveDataVO#40": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "TheatreObjective": {
+              "ObjectiveSaveDataVO#41": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InkMachineObjective": {
+              "ObjectiveSaveDataVO#42": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BendyChaseObjective": {
+              "ObjectiveSaveDataVO#43": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BasementObjective": {
+              "ObjectiveSaveDataVO#44": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH2Data": {
+          "CH2DataVO#15": {
+            "InternecionValue": 0,
+            "RitualObjective": {
+              "ObjectiveSaveDataVO#45": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GateObjective": {
+              "ObjectiveSaveDataVO#46": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MusicDepartmentObjective": {
+              "ObjectiveSaveDataVO#47": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostKeysObjective": {
+              "ObjectiveSaveDataVO#48": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MusicPuzzleObjective": {
+              "ObjectiveSaveDataVO#49": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SanctuaryObjective": {
+              "ObjectiveSaveDataVO#50": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InfirmaryObjective": {
+              "ObjectiveSaveDataVO#51": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SewersObjective": {
+              "ObjectiveSaveDataVO#52": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SammysOfficeObjective": {
+              "ObjectiveSaveDataVO#53": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH3Data": {
+          "CH3DataVO#16": {
+            "InternecionValue": 0,
+            "LiftFloor": 0,
+            "SqueakyToys": {
+              "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#54": {
+                "_items": [],
+                "_size": 0,
+                "_version": 0
+              }
+            },
+            "Toy": 0,
+            "ChoseDevilsPath": false,
+            "HasTommyGun": false,
+            "HasBorisBone": false,
+            "IsSpeakeasyComplete": false,
+            "IsHenryUnlocked": false,
+            "UsedAxe": false,
+            "IsProjectionistKilled": false,
+            "AccountingRoom": {
+              "ObjectiveSaveDataVO#55": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SafehouseObjective": {
+              "ObjectiveSaveDataVO#56": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DarkHallwayObjective": {
+              "ObjectiveSaveDataVO#57": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HeavenlyToysObjective": {
+              "ObjectiveSaveDataVO#58": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceRevealObjective": {
+              "ObjectiveSaveDataVO#59": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DecisionObjective": {
+              "ObjectiveSaveDataVO#60": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BorisJumpscareObjective": {
+              "ObjectiveSaveDataVO#61": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PosterPiperObjective": {
+              "ObjectiveSaveDataVO#62": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "EnterLiftObjective": {
+              "ObjectiveSaveDataVO#63": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceLairObjective": {
+              "ObjectiveSaveDataVO#64": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceTasksObjective": {
+              "ObjectiveSaveDataVO#65": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GearTask": {
+              "ObjectiveIDDataVO#66": {
+                "Object": {
+                  "name": "ObjectDataVO#126",
+                  "values": [
+                    {
+                      "ObjectDataVO#136": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#137": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#138": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#127": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "ThickInkTask": {
+              "ObjectiveIDDataVO#67": {
+                "Object": {
+                  "name": "ObjectDataVO#128",
+                  "values": [
+                    {
+                      "ObjectDataVO#139": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#140": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#141": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#129": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "PowerCoreTask": {
+              "ObjectiveIDDataVO#68": {
+                "Object": {
+                  "name": "ObjectDataVO#130",
+                  "values": [
+                    {
+                      "ObjectDataVO#142": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#143": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#144": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#131": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "CutoutTask": {
+              "ObjectiveIDDataVO#69": {
+                "Object": {
+                  "name": "ObjectDataVO#132",
+                  "values": [
+                    {
+                      "ObjectDataVO#145": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#146": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#147": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#148": {
+                        "ID": 3,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#149": {
+                        "ID": 4,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#150": {
+                        "ID": 5,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#151": {
+                        "ID": 6,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#152": {
+                        "ID": 7,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#153": {
+                        "ID": 8,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#154": {
+                        "ID": 9,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#155": {
+                        "ID": 10,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#156": {
+                        "ID": 11,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#157": {
+                        "ID": 12,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#158": {
+                        "ID": 13,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#159": {
+                        "ID": 14,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#160": {
+                        "ID": 15,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#133": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "ButcherGangTask": {
+              "ObjectiveSaveDataVO#70": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HeartTask": {
+              "ObjectiveIDDataVO#71": {
+                "Object": {
+                  "name": "ObjectDataVO#134",
+                  "values": [
+                    {
+                      "ObjectDataVO#161": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#162": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#163": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#164": {
+                        "ID": 3,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#165": {
+                        "ID": 4,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#135": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH4Data": {
+          "CH4DataVO#17": {
+            "HasPlunger": false,
+            "InternecionValues": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "InternecionBools": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "AccountingObjective": {
+              "ObjectiveSaveDataVO#74": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BridgeMachineObjective": {
+              "ObjectiveSaveDataVO#75": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostOnesObjective": {
+              "ObjectiveSaveDataVO#76": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "VentObjective": {
+              "ObjectiveSaveDataVO#77": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MapRoomObjective": {
+              "ObjectiveSaveDataVO#78": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "WarehouseObjective": {
+              "ObjectiveSaveDataVO#79": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "FairGamesObjective": {
+              "ObjectiveSaveDataVO#80": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "ResearchObjective": {
+              "ObjectiveSaveDataVO#81": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "RideStorageObjective": {
+              "ObjectiveSaveDataVO#82": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MaintenanceObjective": {
+              "ObjectiveSaveDataVO#83": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HauntedHouseObjective": {
+              "ObjectiveSaveDataVO#84": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH5Data": {
+          "CH5DataVO#18": {
+            "InternecionValue": 0,
+            "PipePuzzleBasic": {
+              "ObjectiveSaveDataVO#85": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PipePuzzleCorner": {
+              "ObjectiveSaveDataVO#86": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PipePuzzleThreeWay": {
+              "ObjectiveSaveDataVO#87": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SafehouseObjective": {
+              "ObjectiveSaveDataVO#88": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "CavesObjective": {
+              "ObjectiveSaveDataVO#89": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DockObjective": {
+              "ObjectiveSaveDataVO#90": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "TunnelsObjective": {
+              "ObjectiveSaveDataVO#91": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostHarbourObjective": {
+              "ObjectiveSaveDataVO#92": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AdministrationObjective": {
+              "ObjectiveSaveDataVO#93": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "VaultObjective": {
+              "ObjectiveSaveDataVO#94": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GiantInkMachineObjective": {
+              "ObjectiveSaveDataVO#95": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "ThroneRoomObjective": {
+              "ObjectiveSaveDataVO#96": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BendyArenaObjective": {
+              "ObjectiveSaveDataVO#97": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        }
+      }
+    },
+    "NoSaveFile": {
+      "TMG.Data.SaveFileData#4": {
+        "ID": -1,
+        "CurrentChapter": 0,
+        "HasDied": false,
+        "PlayTime": 0,
+        "IsNewGamePlus": true,
+        "CompleteCount": 0,
+        "Internecions": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "CH1Data": {
+          "CH1DataVO#14": {
+            "Inkwell": {
+              "ObjectiveSaveDataVO#33": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Doll": {
+              "ObjectiveSaveDataVO#34": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Record": {
+              "ObjectiveSaveDataVO#35": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Book": {
+              "ObjectiveSaveDataVO#36": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Wrench": {
+              "ObjectiveSaveDataVO#37": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "Gear": {
+              "ObjectiveSaveDataVO#38": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InkMachineRevealObjective": {
+              "ObjectiveSaveDataVO#39": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "CollectablesObjective": {
+              "ObjectiveSaveDataVO#40": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "TheatreObjective": {
+              "ObjectiveSaveDataVO#41": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InkMachineObjective": {
+              "ObjectiveSaveDataVO#42": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BendyChaseObjective": {
+              "ObjectiveSaveDataVO#43": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BasementObjective": {
+              "ObjectiveSaveDataVO#44": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH2Data": {
+          "CH2DataVO#15": {
+            "InternecionValue": 0,
+            "RitualObjective": {
+              "ObjectiveSaveDataVO#45": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GateObjective": {
+              "ObjectiveSaveDataVO#46": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MusicDepartmentObjective": {
+              "ObjectiveSaveDataVO#47": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostKeysObjective": {
+              "ObjectiveSaveDataVO#48": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MusicPuzzleObjective": {
+              "ObjectiveSaveDataVO#49": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SanctuaryObjective": {
+              "ObjectiveSaveDataVO#50": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "InfirmaryObjective": {
+              "ObjectiveSaveDataVO#51": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SewersObjective": {
+              "ObjectiveSaveDataVO#52": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SammysOfficeObjective": {
+              "ObjectiveSaveDataVO#53": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH3Data": {
+          "CH3DataVO#16": {
+            "InternecionValue": 0,
+            "LiftFloor": 0,
+            "SqueakyToys": {
+              "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#54": {
+                "_items": [],
+                "_size": 0,
+                "_version": 0
+              }
+            },
+            "Toy": 0,
+            "ChoseDevilsPath": false,
+            "HasTommyGun": false,
+            "HasBorisBone": false,
+            "IsSpeakeasyComplete": false,
+            "IsHenryUnlocked": false,
+            "UsedAxe": false,
+            "IsProjectionistKilled": false,
+            "AccountingRoom": {
+              "ObjectiveSaveDataVO#55": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SafehouseObjective": {
+              "ObjectiveSaveDataVO#56": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DarkHallwayObjective": {
+              "ObjectiveSaveDataVO#57": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HeavenlyToysObjective": {
+              "ObjectiveSaveDataVO#58": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceRevealObjective": {
+              "ObjectiveSaveDataVO#59": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DecisionObjective": {
+              "ObjectiveSaveDataVO#60": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BorisJumpscareObjective": {
+              "ObjectiveSaveDataVO#61": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PosterPiperObjective": {
+              "ObjectiveSaveDataVO#62": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "EnterLiftObjective": {
+              "ObjectiveSaveDataVO#63": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceLairObjective": {
+              "ObjectiveSaveDataVO#64": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AliceTasksObjective": {
+              "ObjectiveSaveDataVO#65": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GearTask": {
+              "ObjectiveIDDataVO#66": {
+                "Object": {
+                  "name": "ObjectDataVO#126",
+                  "values": [
+                    {
+                      "ObjectDataVO#136": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#137": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#138": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#127": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "ThickInkTask": {
+              "ObjectiveIDDataVO#67": {
+                "Object": {
+                  "name": "ObjectDataVO#128",
+                  "values": [
+                    {
+                      "ObjectDataVO#139": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#140": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#141": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#129": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "PowerCoreTask": {
+              "ObjectiveIDDataVO#68": {
+                "Object": {
+                  "name": "ObjectDataVO#130",
+                  "values": [
+                    {
+                      "ObjectDataVO#142": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#143": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#144": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#131": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "CutoutTask": {
+              "ObjectiveIDDataVO#69": {
+                "Object": {
+                  "name": "ObjectDataVO#132",
+                  "values": [
+                    {
+                      "ObjectDataVO#145": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#146": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#147": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#148": {
+                        "ID": 3,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#149": {
+                        "ID": 4,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#150": {
+                        "ID": 5,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#151": {
+                        "ID": 6,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#152": {
+                        "ID": 7,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#153": {
+                        "ID": 8,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#154": {
+                        "ID": 9,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#155": {
+                        "ID": 10,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#156": {
+                        "ID": 11,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#157": {
+                        "ID": 12,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#158": {
+                        "ID": 13,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#159": {
+                        "ID": 14,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#160": {
+                        "ID": 15,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#133": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "ButcherGangTask": {
+              "ObjectiveSaveDataVO#70": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HeartTask": {
+              "ObjectiveIDDataVO#71": {
+                "Object": {
+                  "name": "ObjectDataVO#134",
+                  "values": [
+                    {
+                      "ObjectDataVO#161": {
+                        "ID": 0,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#162": {
+                        "ID": 1,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#163": {
+                        "ID": 2,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#164": {
+                        "ID": 3,
+                        "IsComplete": false
+                      }
+                    },
+                    {
+                      "ObjectDataVO#165": {
+                        "ID": 4,
+                        "IsComplete": false
+                      }
+                    }
+                  ]
+                },
+                "Status": {
+                  "ObjectiveSaveDataVO#135": {
+                    "IsStarted": false,
+                    "IsComplete": false
+                  }
+                }
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH4Data": {
+          "CH4DataVO#17": {
+            "HasPlunger": false,
+            "InternecionValues": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "InternecionBools": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "AccountingObjective": {
+              "ObjectiveSaveDataVO#74": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BridgeMachineObjective": {
+              "ObjectiveSaveDataVO#75": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostOnesObjective": {
+              "ObjectiveSaveDataVO#76": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "VentObjective": {
+              "ObjectiveSaveDataVO#77": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MapRoomObjective": {
+              "ObjectiveSaveDataVO#78": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "WarehouseObjective": {
+              "ObjectiveSaveDataVO#79": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "FairGamesObjective": {
+              "ObjectiveSaveDataVO#80": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "ResearchObjective": {
+              "ObjectiveSaveDataVO#81": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "RideStorageObjective": {
+              "ObjectiveSaveDataVO#82": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "MaintenanceObjective": {
+              "ObjectiveSaveDataVO#83": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "HauntedHouseObjective": {
+              "ObjectiveSaveDataVO#84": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        },
+        "CH5Data": {
+          "CH5DataVO#18": {
+            "InternecionValue": 0,
+            "PipePuzzleBasic": {
+              "ObjectiveSaveDataVO#85": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PipePuzzleCorner": {
+              "ObjectiveSaveDataVO#86": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PipePuzzleThreeWay": {
+              "ObjectiveSaveDataVO#87": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "SafehouseObjective": {
+              "ObjectiveSaveDataVO#88": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "CavesObjective": {
+              "ObjectiveSaveDataVO#89": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "DockObjective": {
+              "ObjectiveSaveDataVO#90": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "TunnelsObjective": {
+              "ObjectiveSaveDataVO#91": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "LostHarbourObjective": {
+              "ObjectiveSaveDataVO#92": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "AdministrationObjective": {
+              "ObjectiveSaveDataVO#93": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "VaultObjective": {
+              "ObjectiveSaveDataVO#94": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "GiantInkMachineObjective": {
+              "ObjectiveSaveDataVO#95": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "ThroneRoomObjective": {
+              "ObjectiveSaveDataVO#96": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "BendyArenaObjective": {
+              "ObjectiveSaveDataVO#97": {
+                "IsStarted": false,
+                "IsComplete": false
+              }
+            },
+            "PlayerPosition": null,
+            "PlayerRotation": null,
+            "HasDied": false,
+            "IsChapterComplete": false,
+            "HasSaveData": false
+          }
+        }
+      }
+    },
+    "CH1AchievementData": {
+      "TMG.Data.AchievementSaveData#5": {
+        "AudioLogs": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#19": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        },
+        "BaconSoup": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#20": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        }
+      }
+    },
+    "CH2AchievementData": {
+      "TMG.Data.AchievementSaveData#6": {
+        "AudioLogs": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#21": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        },
+        "BaconSoup": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#22": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        }
+      }
+    },
+    "CH3AchievementData": {
+      "TMG.Data.AchievementSaveData#7": {
+        "AudioLogs": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#23": {
+            "_items": [
+              0,
+              5,
+              2,
+              0
+            ],
+            "_size": 3,
+            "_version": 3
+          }
+        },
+        "BaconSoup": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#24": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        }
+      }
+    },
+    "CH4AchievementData": {
+      "TMG.Data.AchievementSaveData#8": {
+        "AudioLogs": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#25": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        },
+        "BaconSoup": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#26": {
+            "_items": [
+              6,
+              15,
+              17,
+              0
+            ],
+            "_size": 3,
+            "_version": 3
+          }
+        }
+      }
+    },
+    "CH5AchievementData": {
+      "TMG.Data.AchievementSaveData#9": {
+        "AudioLogs": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#27": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        },
+        "BaconSoup": {
+          "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]#28": {
+            "_items": [],
+            "_size": 0,
+            "_version": 0
+          }
+        }
+      }
+    },
+    "ContinueIndex": 5,
+    "HasChapter02": true,
+    "HasChapter03": true,
+    "HasChapter04": true,
+    "HasChapter05": true
+  }
+}
